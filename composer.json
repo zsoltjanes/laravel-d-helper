@@ -1,5 +1,6 @@
 {
   "name": "zsoltjanes/laravel-d-helper",
+  "license": "MIT",
   "autoload": {
     "files": [
       "src/helpers.php"
