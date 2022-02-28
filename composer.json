@@ -1,0 +1,19 @@
+{
+  "name": "zsoltjanes/laravel-d-helper",
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "zsoltjanes",
+      "email": "zsolt.janes@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.5"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
